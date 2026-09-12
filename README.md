@@ -6,6 +6,19 @@ Powered by [F5-TTS](https://github.com/SWivid/F5-TTS) (Flow-Matching Diffusion T
 
 ---
 
+## 🎙️ Pre-Packaged French UGC Reference Voice
+
+A real UGC sample extracted from your video is included directly in this repo:
+* **Audio file:** `reference_voices/tao_chew_sample.wav` (9.2 seconds, 24kHz mono)
+* **Transcript:**
+  > *"Tao a mis presque 16 minutes pour la finir. C'est une mastication qui dure entre 10 et 20 minutes en fonction des chiens. Elle fait partie de la catégorie moyenne durée."*
+* **Alternative hook file:** `reference_voices/tao_hook_sample.wav` (5.2 seconds)
+  > *"Tu t'es déjà demandé combien de temps dure une oreille de veau ? Tao va nous faire la démonstration."*
+
+You can directly load these in Google Colab without uploading anything!
+
+---
+
 ## 🚀 Quick Links (Open Directly in Colab)
 
 | Notebook | Purpose | Link |
